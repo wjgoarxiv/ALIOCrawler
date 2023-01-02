@@ -1,0 +1,10 @@
+README.md
+setup.py
+ALIOCrawler/ALIOCrawler.py
+ALIOCrawler/__init__.py
+ALIOCrawler.egg-info/PKG-INFO
+ALIOCrawler.egg-info/SOURCES.txt
+ALIOCrawler.egg-info/dependency_links.txt
+ALIOCrawler.egg-info/entry_points.txt
+ALIOCrawler.egg-info/requires.txt
+ALIOCrawler.egg-info/top_level.txt

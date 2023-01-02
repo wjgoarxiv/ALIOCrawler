@@ -1,0 +1,11 @@
+selenium
+beautifulsoup4
+html5lib
+requests
+pandas
+argparse
+numpy
+matplotlib
+seaborn
+chromedriver-autoinstaller
+pyfiglet

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ALIOCrawler
+Version: 1.0.2
+Summary: ::A simple tool to extract job info. from ALIO website::
+Home-page: https://pypi.org/project/ALIOCrawler/
+Author: wjgoarxiv
+Author-email: woo_go@yahoo.com
+License: MIT
+Requires-Python: >=3.8
+
+This is the first upload...
